@@ -7,6 +7,5 @@ int main() {
     average = (num1+num2+num3)/3;
     printf("Average: %.2d" , average);
 
-    printf("%s", welcome());
     return 0;
 }
