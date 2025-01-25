@@ -1,13 +1,13 @@
 #include <stdio.h>
 int main() {
-    char b[100] ,c[100];
+    char b[20] ,c[10];
     int a;
-    scanf("%s",&b);
+    scanf("%s",&c);
     scanf("%d",&a);
-    sacnf("%s",&c);
-    printf("Name: %s\n ",b);
+    sacnf("%s",&b);
+    printf("Name: %s\n ",c);
     printf("Age: %d\n ",a);
-    printf("Hobby: %s ",c);
+    printf("Hobby: %s\n ",b);
 
     return 0;
 }
