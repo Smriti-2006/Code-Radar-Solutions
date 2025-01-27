@@ -6,7 +6,7 @@ int main() {
         print("Set");
     }
     else{
-        print("Not Set")
+        print("Not Set");
     }
     return 0;
 }
